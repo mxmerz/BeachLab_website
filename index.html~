@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <meta name="p:domain_verify" content="163c0873d576c6cd63bfe70235ac1065"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="description" content="The Beach Lab Website">
@@ -162,7 +163,7 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
                                 <div class="row">
                                     <div class="col-xs-8 col-xs-offset-2">
                                         <h3>Stay tuned</h3>
-                                        <p>Events, worksops and breaking news are announced in our Facebook page. Make sure to follow us if you want to keep up to date.</p>
+                                        <p>Many events and workshops are only announced in our Facebook page. Make sure to follow us if you want to keep up to date!</p>
                                     </div>
                                 </div>
                             </div>
@@ -397,23 +398,23 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
                             <h4>Be Social</h4>
                             <ul class="list-inline">
                                 <li>
-                                    <a href="http://facebook.com/fablabsitges" class="btn btn-social-light btn-facebook"><i class="fa fa-fw fa-facebook"></i></a>
+                                    <a href="http://facebook.com/thebeachlab" class="btn btn-social-light btn-facebook"><i class="fa fa-fw fa-facebook"></i></a>
                                 </li>
                                 <li>
-                                    <a href="http://twitter.com/fablabsitges" class="btn btn-social-light btn-twitter"><i class="fa fa-fw fa-twitter"></i></a>
+                                    <a href="http://twitter.com/thebeachlab" class="btn btn-social-light btn-twitter"><i class="fa fa-fw fa-twitter"></i></a>
                                 </li>
                                 <li>
-                                    <a href="http://www.flickr.com/photos/101468120@N08/" class="btn btn-social-light btn-flickr"><i class="fa fa-fw fa-flickr"></i></a>
+                                    <a href="http://www.flickr.com/photos/thebeachlab/" class="btn btn-social-light btn-flickr"><i class="fa fa-fw fa-flickr"></i></a>
                                 </li>
                             
                                 <li>
-                                <a href="http://pinterest.com/fablabsitges/" class="btn btn-social-light btn-pinterest"><i class="fa fa-fw fa-pinterest"></i></a>
+                                <a href="http://pinterest.com/thebeachlab/" class="btn btn-social-light btn-pinterest"><i class="fa fa-fw fa-pinterest"></i></a>
                                     <li>
                                 <a href="http://vimeo.com/fablabsitges" class="btn btn-social-light btn-vimeo"><i class="fa fa-fw fa-vimeo-square"></i></a></li>
                                 </li>
                                 
                             <li>
-                            <a href="https://github.com/Fablabsitges" class="btn btn-social-light btn-github"><i class="fa fa-fw fa-github"></i></a>
+                            <a href="https://github.com/thebeachlab" class="btn btn-social-light btn-github"><i class="fa fa-fw fa-github"></i></a>
                             </li>
                             </ul>
                         </div>
