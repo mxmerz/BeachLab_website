@@ -236,15 +236,18 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
    
 
 
-                       
+                      
                         
 
 
 
 
                     </div>
+
                 </div>
+<p>Did you like them? This are some of the things you learn when you take the worldwide version of MIT's <strong>How to Make (Almost) Anything</strong> named Fab Academy. Directed and taught by Neil Gershenfeld and globally broadcasted live from Boston. You can do that too. Apply now for <a href="http://fabacademy.org/application-form/"> The Fab Academy 2016.</a></p> 
             </div>
+
         </section>
 
         <section class="clients bg-dark">
@@ -276,11 +279,9 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
 			   <li class="item">
 				<a href="http://sitges.cat">
                                 <img class="img-responsive" src="img/smart.svg" alt=""></a>
-                            </li>
-                            
-           
-                           
+                            </li>            
                         </ul>
+
                     </div>
                 </div>
             </div>
@@ -361,7 +362,7 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
         </section>
 
 <section class="nopadding nomargin">
-    <div style="height: 700px;">  
+    <div style="height: 500px;">  
           
                <iframe width='100%' height='100%' frameBorder='0' src='https://a.tiles.mapbox.com/v4/beachlab.lol0majm/attribution.html?access_token=pk.eyJ1IjoiYmVhY2hsYWIiLCJhIjoieXlMTm56YyJ9.geZuV6NBKGBhWsbsBrIM9Q'></iframe>
        
@@ -385,7 +386,7 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
                         <div class="col-md-3">
                             <h4>Sitges</h4>
 				<address>
-                                <strong>Fab Lab</strong>
+                                <strong>Fab Lab / Bio Lab</strong>
                                 <br>Passeig de la Ribera 46
                                 <br>08870 Sitges
                                 <br>Spain              
@@ -403,6 +404,9 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
                                 <li>
                                     <a href="http://twitter.com/thebeachlab" class="btn btn-social-light btn-twitter"><i class="fa fa-fw fa-twitter"></i></a>
                                 </li>
+				<li>
+                                    <a href="http://www.instagram.com/thebeachlab/" class="btn btn-social-light btn-instagram"><i class="fa fa-fw fa-instagram"></i></a>
+                                </li>
                                 <li>
                                     <a href="http://www.flickr.com/photos/thebeachlab/" class="btn btn-social-light btn-flickr"><i class="fa fa-fw fa-flickr"></i></a>
                                 </li>
@@ -410,7 +414,7 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
                                 <li>
                                 <a href="http://pinterest.com/thebeachlab/" class="btn btn-social-light btn-pinterest"><i class="fa fa-fw fa-pinterest"></i></a>
                                     <li>
-                                <a href="http://vimeo.com/fablabsitges" class="btn btn-social-light btn-vimeo"><i class="fa fa-fw fa-vimeo-square"></i></a></li>
+                                <a href="http://vimeo.com/thebeachlab" class="btn btn-social-light btn-vimeo"><i class="fa fa-fw fa-vimeo-square"></i></a></li>
                                 </li>
                                 
                             <li>
