@@ -155,7 +155,7 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
                                 <div class="row">
                                     <div class="col-xs-8 col-xs-offset-2">
                                         <h3>Fab Academy 2016 Applications Open!</h3>
-                                        <p>Another edition of How to Make (Almost) Anything is about to start. Taught and directed by <strong>Neil Gershenfeld (MIT)</strong>. Awake the inventor in you. <strong><a href="http://fabacademy.org/application-form/">Apply now</a></strong> for the most advanced program in digital fabrication on Earth at The Beach Lab.</p>
+                                        <p>Another edition of How to Make (Almost) Anything is about to start. Taught and directed by <strong>Neil Gershenfeld (MIT)</strong>. Awake the inventor in you. <strong><a href="http://fabacademy.org/application-form/" class="light-text2">Apply now</a></strong> for the most advanced program in digital fabrication on Earth at The Beach Lab.</p>
                                     </div>
                                 </div>
                             </div>
@@ -253,7 +253,7 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
                     </div>
 
                 </div>
-<p>Did you like them? This are some of the things you learn when you take the worldwide version of MIT's <strong>How to Make (Almost) Anything</strong> named Fab Academy. Directed and taught by Neil Gershenfeld and globally broadcasted live from Boston. You can do that too. Apply now for <a href="http://fabacademy.org/application-form/"> The Fab Academy 2016</a> at The Beach Lab.</p> 
+<p>Did you like them? These are some of the things you learn when you take the worldwide version of MIT's <strong>How to Make (Almost) Anything</strong> named Fab Academy. Directed and taught by Neil Gershenfeld and globally broadcasted live from Boston. You can do that too. Apply now for <a href="http://fabacademy.org/application-form/"> The Fab Academy 2016</a> at The Beach Lab.</p> 
             </div>
 
         </section>
@@ -370,7 +370,7 @@ The Beach Lab is one of the roughly 50 Laboratories in the world participant in 
         </section>
 
 <section class="nopadding nomargin">
-    <div style="height: 500px;">  
+    <div style="height: 300px;">  
           
                <iframe width='100%' height='100%' frameBorder='0' src='https://a.tiles.mapbox.com/v4/beachlab.lol0majm/attribution.html?access_token=pk.eyJ1IjoiYmVhY2hsYWIiLCJhIjoieXlMTm56YyJ9.geZuV6NBKGBhWsbsBrIM9Q'></iframe>
        
