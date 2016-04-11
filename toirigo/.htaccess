@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^toirigo\.beachlab\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.toirigo\.beachlab\.org$
+RewriteRule ^/?$ "http\:\/\/pyrenees\.beachlab\.org" [R=301,L]
+
