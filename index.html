@@ -136,32 +136,14 @@
 
                         <p>Welcome to <strong>The Beach Lab</strong>, a Fab(ulous) Lab(oratory) for research and development in digital fabrication and synthetic biology participant in a <a href="http://fablabs.io">global network</a> of interconnected Labs. Fab Labs began in India in 2001, as an outreach social innovation project from <a href="http://cba.mit.edu/">MIT’s Center for Bits and Atoms</a> and since then they have spread over the world, doubling faster than <a href="https://en.wikipedia.org/wiki/Moore%27s_law">Moore's Law</a>.</p>
 
-                        <p>The Beach Lab developed a new concept of mobile fab lab by combining the most advanced digital fabrication tools and the most extreme off-road vehicle -the Mercedes G- to deliver digital fabrication in the most remote regions and severe conditions. Structural engineering and seismic design techniques have been applied to design a lightweight cubic structure, <strong>The Tesseract</strong>, incorporating bleeding edge technology for in-the-field action. A foldable masterpiece with the ability to seamlessly switch from mobile to fixed laboratory, giving the flexibility to deploy educational programs and workshops when required, optimizing the resources when they are not needed.</p>
+                        <p>The Beach Lab developed a new concept of mobile fab lab by combining the most advanced digital fabrication tools and the most extreme off-road vehicle, to deliver digital fabrication in the most remote regions and severe conditions. Structural engineering and seismic design techniques have been applied to design a lightweight cubic structure, <strong>The Tesseract</strong>, incorporating bleeding edge technology for on-the-go prototyping. A foldable masterpiece with the ability to seamlessly transform from mobile to fixed laboratory, giving the flexibility to deploy educational programs and workshops when required, optimizing the resources when they are not needed.</p>
 
                         <p>The Beach Lab is one of the Supernodes participant in MIT’s CBA based educational programs, providing access to <a href="http://fabacademy.org">Fab Academy HTMAA</a> (How to make almost anything) and <a href="http://bio.academany.org">Bio Academy HTGAA</a> (How to grow almost anything) courses from Sitges (Barcelona). Our passion is accepting global impact innovative challenges related to our marine environment, like <a href="https://github.com/TheBeachLab/scylla">project Scylla</a>. And our ultimate goal is helping local communities to develop a self-sustainable future through collaborative innovation.</p>
 
                     </div>
-                    <div class="col-lg-12" align="center">
-                    <input type="text" data-min="0" data-max="100" value="62" class="dial">
-                    <input type="text" data-min="0" data-max="5000" value="776" class="dial">
-                    <input type="text" data-min="0" data-max="100" value="84" class="dial">
-                      <script>
-                          $(".dial").knob({
-                              'change' : function (v) { console.log(v); },
-                              'angleOffset':-125,
-                              'width': 150,
-                              'angleArc':250,
-                              'readOnly':true,
-                              'thickness':.25,
-                              'lineCap':'round',
-                              'font':'Montserrat'
-                          });
-                      </script>
-                    </div>
                 </div>
             </div>
         </section>
-
 
         <section class="portfolio-2 bg-info text-center">
             <div class="container">
@@ -203,6 +185,57 @@
                 </div>
             </div>
         </section>
+
+
+        <!-- Call to Action - With Dark Image Background -->
+        <aside class="bg-parallax-dark" style="background-image: url(./img/mbg.jpg);">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <h2 class="section-heading"><br><br><br>You Demanded. We Deliver<br><br><br></h2>
+
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <section class="bg-warning">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-lg-12">
+                        <h2>Real Time Telemetry</h2>
+                        <hr class="light">
+                    </div>
+                    <div class="col-md-12">
+                        Real-Time telemetry data will be shown here: bearing, speed, power consumption, and other data extracted from the <strong>ODBII</strong> bus. <br><br>
+                    </div>
+                    <br><br>
+                    <div class="col-lg-12" align="center">
+                    <input type="text" data-fgColor="#CCCCCC" data-min="0" data-max="100" value="62" class="dial">
+                    &nbsp; &nbsp; &nbsp;
+                    <input type="text" data-fgColor="#CCCCCC" data-min="0" data-max="5000" value="776" class="dial">
+                    &nbsp; &nbsp; &nbsp;
+                    <input type="text" data-fgColor="#CCCCCC" data-min="0" data-max="100" value="84" class="dial">
+                      <script>
+                          $(".dial").knob({
+                              'change' : function (v) { console.log(v); },
+                              'angleOffset':-125,
+                              'width': 150,
+                              'height': 150,
+                              'angleArc':250,
+                              'readOnly':true,
+                              'thickness':.25,
+                              'lineCap':'round',
+                              'font':'Montserrat'
+                          });
+                      </script>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+
 
 
         <section id="work" class="portfolio-1">
@@ -286,16 +319,20 @@
                         <ul id="clients-carousel" class="text-center">
 
                             <li class="item">
-                                <a href="http://fablabs.io">
-                                    <img class="img-responsive" src="img/fln.svg" alt=""></a>
-                            </li>
-                            <li class="item">
                                 <a href="http://mit.edu">
                                     <img class="img-responsive" src="img/mit.svg" alt=""></a>
                             </li>
                             <li class="item">
                                 <a href="http://cba.mit.edu">
                                     <img class="img-responsive" src="img/cba.svg" alt=""></a>
+                            </li>
+                            <li class="item">
+                                <a href="https://www.mercedes-benz.com/en/mercedes-benz/vehicles/passenger-cars/g-class/">
+                                    <img class="img-responsive" src="img/mbg.svg" alt=""></a>
+                            </li>
+                            <li class="item">
+                                <a href="http://fablabs.io">
+                                    <img class="img-responsive" src="img/fln.svg" alt=""></a>
                             </li>
                             <li class="item">
                                 <a href="http://sitges.cat">
@@ -338,7 +375,6 @@
                 </div>
             </div>
         </section>
-
 
 
         <section id="contact" class="contact-1">
